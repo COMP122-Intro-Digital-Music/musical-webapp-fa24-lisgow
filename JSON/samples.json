@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "inallcornersoftheearth",
+    "file": "samples/inallcornersoftheearth.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "intromusic",
+    "file": "samples/intromusic.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "whistle",
+    "file": "samples/whistle.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]
